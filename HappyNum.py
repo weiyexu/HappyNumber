@@ -1,4 +1,4 @@
-N = 20000
+N = 15000
 def convert(n):
    i = 0
    while n>0:
